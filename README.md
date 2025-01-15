@@ -34,5 +34,3 @@ $ git fetch origin
 $ git checkout
 </code></pre>
 
-```
-
