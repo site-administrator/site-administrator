@@ -36,15 +36,3 @@ $ git checkout
 
 ```
 
-
-<pre><code>$ cd you_have/add_item
-$ fetch origin
-$ checkout
-</code></pre>
-
-also
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout
-</code></pre>
